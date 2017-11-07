@@ -29,4 +29,5 @@ function getHTML (options, callback) {
     path: '/http-examples/step4.html'
   };
 
+
   getHTML(requestOptions, printHTML);
